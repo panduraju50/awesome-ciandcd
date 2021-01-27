@@ -8,7 +8,7 @@ A curated list of awesome tools for:
 continuous integration  
 continuous delivery  
 software integration  
-devops  (DevOps)
+devops  DevOps
 
 - [ciandcd](#ciandcd)
 - [Theory](#theory)
